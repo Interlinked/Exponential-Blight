@@ -1,8 +1,8 @@
 ﻿{
-	"name": "MyFirstMod",
+	"name": "ExponentialBlightItem",
 	"version_number": "1.0.0",
-	"website_url": "",
-	"description": "My first Mod",
+	"website_url": "https://github.com/Interlinked/Exponential-Blight",
+	"description": "Adds a red item to make blight deal exponential damage based off the amount of blight stacks on enemies.",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",
 		"RiskofThunder-HookGenPatcher-1.2.3",
